@@ -1,0 +1,2 @@
+1 bike.sql abrir con MySQL
+2 abril con xamp el programa
